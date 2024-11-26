@@ -16,7 +16,7 @@
 13. Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) überwacht die Einhaltung des Datenschutzgesetzes bei privaten Personen und Bundesorganen.  
 14. **Zweck**: Schutz der Persönlichkeit und der Grundrechte von Personen, über die Daten bearbeitet werden.  
     **Geltungsbereich**: Bearbeitung von Personendaten durch private Personen und Bundesorgane.  
-15.  - **Art. 25**: Informationspflicht bei der Beschaffung von Personendaten.  
+15. - **Art. 25**: Informationspflicht bei der Beschaffung von Personendaten.  
     - **Art. 28**: Bekanntgabe von Personendaten ins Ausland.  
 16. - **Maximale Busse**: 250'000 Schweizer Franken.  
     - **Gründe**: Verletzung der Informationspflicht, unrechtmäßige Bekanntgabe von besonders schützenswerten Daten.
