@@ -1,6 +1,6 @@
 1. Wohin sichern?
-Es wird empfohlen, Sicherungen auf externe Speichermedien (z. B. USB-Sticks, externe Festplatten) oder in die Cloud durchzuführen.
-Wichtig ist es, den Speicherort so zu wählen, dass er vor physischem Zugriff und Beschädigung geschützt ist.
+Empfohlen wird, Sicherungen auf externe Speichermedien (z. B. USB-Sticks, externe Festplatten) oder in die Cloud durchzuführen.
+Wichtig ist, den Speicherort so zu wählen, dass er vor physischem Zugriff und Beschädigungen geschützt ist.
 Externe Standorte oder Cloud-Lösungen bieten Schutz vor lokalen Vorfällen wie Bränden oder Diebstahl.
 
 2. Datensicherungsstrategien
