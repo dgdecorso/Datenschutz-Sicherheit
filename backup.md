@@ -16,3 +16,5 @@ Die Kompatibilität zwischen Geräten und Software ist entscheidend, um eine rei
 
 
 
+![Screenshot 2024-12-03 135355](https://github.com/user-attachments/assets/4d356f74-8693-42e3-8838-5e4d51e68b3f)
+![Screenshot 2024-12-03 135450](https://github.com/user-attachments/assets/57e4b94d-a40a-42ea-a088-6e3d5c2ce826)
