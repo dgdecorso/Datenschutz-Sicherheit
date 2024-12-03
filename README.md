@@ -13,3 +13,6 @@ Als der Lehrer fertig mit dem Input war, begann ich mit der Zweiten Aufgabe, da 
 
 Der Lehrer machte nur eine sehr kurze Einführung und lies uns sofort arbeiten. Wir begannen zuerst mit der neuen Aufgabe, Das Datenschutzgesetz. Später erhielten wir noch zeit für die Aufgaben der vergangenen Wochen, ich musste noch eine Aufgabe lösen, bevor ich mich wieder der neuen Aufgabe widmete. Ich wurde nicht fertig weswegen ich sie nächste Woche fertig machen werde. Zudem haben wir noch einen Kurzen Film über das Internet geschaut.
  
+# 03. Dezember
+
+Wir hatten eine kurze Einführung zu BackUps und dann begannen wir mit der dazugehörigen Aufgabe. [Backup](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/backup.md). Als wir dann fertig waren, hatten wir nochmals einen kurzen Vortrag über BackUps. Danach hatten wir noch Zeit um für die kommende Prüfung zu lernen und/oder die Aufgabe von letzer woche zu beenden. [Datenschutz](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/03_DateschutzRecht.md)
