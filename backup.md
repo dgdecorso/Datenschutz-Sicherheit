@@ -1,3 +1,5 @@
+# Backup
+
 1. Wohin sichern?
 Empfohlen wird, Sicherungen auf externe Speichermedien (z. B. USB-Sticks, externe Festplatten) oder in die Cloud durchzuführen.
 Wichtig ist, den Speicherort so zu wählen, dass er vor physischem Zugriff und Beschädigungen geschützt ist.
