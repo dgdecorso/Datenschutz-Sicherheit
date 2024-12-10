@@ -1,5 +1,5 @@
 | Service    | Funktion | Betroffene Daten | Backup | Wiederherstellung |
 | -------- | ------- | -------- | -------- | -------- |
-| Whatsapp  | $250   |
+| Whatsapp  | Chats, Fotos, Videos   |
 | Snapchat | $80     |
 | March    | $420    |
