@@ -1,5 +1,5 @@
 | Service    | Funktion | Betroffene Daten | Backup | Wiederherstellung |
 | -------- | ------- | -------- | -------- | -------- |
-| Whatsapp  | Chats, Fotos, Videos   |
+| Whatsapp  | Nachrichtensofortverstand (Text, Foto, Video, Ton) mit Freunden, Familie und Arbeitskollegen | Chats, Fotos, Videos   |
 | Snapchat | $80     |
 | March    | $420    |
