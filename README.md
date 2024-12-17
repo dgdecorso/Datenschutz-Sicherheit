@@ -16,3 +16,7 @@ Der Lehrer machte nur eine sehr kurze Einführung und lies uns sofort arbeiten. 
 # 03. Dezember
 
 Wir hatten eine kurze Einführung zu BackUps und dann begannen wir mit der dazugehörigen Aufgabe. [Backup](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/backup.md). Als wir dann fertig waren, hatten wir nochmals einen kurzen Vortrag über BackUps. Danach hatten wir noch Zeit um für die kommende Prüfung zu lernen und/oder die Aufgabe von letzer woche zu beenden. [Datenschutz](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/03_DateschutzRecht.md)
+
+# 10. Dezember
+
+Als die Lektion begann, erhielten wir die Prüfung zum Datenschutz und -sicherheit. Für die Prüfung hatten wir 30Min Zeit. Nach der Prüfung bakemmen wir einen Auftrag zu Backup.
