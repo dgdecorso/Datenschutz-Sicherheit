@@ -36,8 +36,7 @@ Ein Backup ist notwendig, um Datenverlust zu vermeiden, der durch Hardwaredefekt
 **Link zur Empfehlung:**  
 [Wie man ein sicheres Cloud-Backup erstellt](https://gitlab.com/ch-tbz-it/Stud/m231/-/blob/master/05_Backup/05_Sicheres%20Cloud-Backup.md)  
 
-**Bild zur Verdeutlichung:**  
-![Backup-Prozess](backup.jpg)
+
 
 ---
 
