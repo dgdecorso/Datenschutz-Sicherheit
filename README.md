@@ -20,3 +20,7 @@ Wir hatten eine kurze Einführung zu BackUps und dann begannen wir mit der dazug
 # 10. Dezember
 
 Als die Lektion begann, erhielten wir die Prüfung zum Datenschutz und -sicherheit. Für die Prüfung hatten wir 30Min Zeit. Nach der Prüfung bekammen wir einen Auftrag zu Backup. [Backup-Konzept](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/04_BackupKonzept.md).
+
+# 17. Dezember 
+
+ Zu Beginn der Lektion, bekamen wir unsere Prüfung von letzter Woche zurück. Danach sagte uns der Lehrer, dass wir keinen wirklichen Input hatten und die ganze Lektion zur Verfügung hätten, die Aufgaben zu lösen. Ich arbeitete zunächst am zweiten Teil der Backup-Konzept Aufgabe [Backup-Konzept Teil 2].(https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
