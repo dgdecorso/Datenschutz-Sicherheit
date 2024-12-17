@@ -19,4 +19,4 @@ Wir hatten eine kurze Einführung zu BackUps und dann begannen wir mit der dazug
 
 # 10. Dezember
 
-Als die Lektion begann, erhielten wir die Prüfung zum Datenschutz und -sicherheit. Für die Prüfung hatten wir 30Min Zeit. Nach der Prüfung bakemmen wir einen Auftrag zu Backup.
+Als die Lektion begann, erhielten wir die Prüfung zum Datenschutz und -sicherheit. Für die Prüfung hatten wir 30Min Zeit. Nach der Prüfung bekammen wir einen Auftrag zu Backup.[Backup-Konzept](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/03_DateschutzRecht.md)
