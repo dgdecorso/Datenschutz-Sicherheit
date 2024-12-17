@@ -42,7 +42,7 @@ Ein Backup ist notwendig, um Datenverlust zu vermeiden, der durch Hardwaredefekt
 ## Zusätzliche Ressource  
 Hören Sie sich diesen interessanten Podcast zum Thema Datensicherung an:  
 [USB-Sticks und SSDs – Datenrettung bei HDD/SSD-Fehlern](https://www.heise.de/news/USB-Sticks-und-SSDs-ab-1-TByte-Datenrettung-bei-HDD-SSD-Fehlern-c-t-uplink-9304485.html)
-"""
+
 
 # Datei speichern
 file_path = "/mnt/data/backup_konzept.md"
