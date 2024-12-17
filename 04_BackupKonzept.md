@@ -1,6 +1,6 @@
-| Service    | Funktion | Betroffene Daten | Backup | Wiederherstellung |
-| -------- | ------- | -------- | -------- | -------- |
-| Whatsapp  | Kommunikation| Chats, Fotos, Videos   | Im App Konfiguriert: Google Drive Backup mit Passwortschutz | Bei der Installation der App werde ich gefragt, ob ich meine Daten wiederherstellen möchte. |
-| Snapchat | Kommunikation und Social Media | Chats, Fotos, Videos, Erinnerungen z.b. Stories | Kann durch anklicken gespeichert werden in App | Wird Auto. wiederhergestellt |
-| Instagram | Social Media | Posts, Chats | Wird Auto. gespeichert | Wird auto. gespechert | Backupcode muss eingegeben werden |
-| Word | Text app | Dokumente, Texte | Wird lokal oder in der Cloud gespeichert | Dokumente können manuell wiederhergestellt werden |
+| Service    | Funktion | Betroffene Daten | Backup | Wiederherstellung | Häufigkeit des Backups | Häufigkeit der Wiederherstellun |
+| -------- | ------- | -------- | -------- | -------- | -------- | -------- |
+| Whatsapp  | Kommunikation| Chats, Fotos, Videos   | Im App Konfiguriert: Google Drive Backup mit Passwortschutz | Bei der Installation der App werde ich gefragt, ob ich meine Daten wiederherstellen möchte. | Regelmäßig (täglich/wöchentlich, je nach Konfiguration) | Nur bei Neuinstallation der App |
+| Snapchat | Kommunikation und Social Media | Chats, Fotos, Videos, Erinnerungen z.b. Stories | Kann durch anklicken gespeichert werden in App | Wird Auto. wiederhergestellt | Manuell durch Nutzer (sporadisch) | Automatisch beim erneuten Einloggen |
+| Instagram | Social Media | Posts, Chats | Wird Auto. gespeichert | Wird auto. gespechert | Backupcode muss eingegeben werden | Automatisch bei Erstellung von Inhalten (ständig) | Automatisch beim Login oder App-Neuinstallation |
+| Word | Text app | Dokumente, Texte | Wird lokal oder in der Cloud gespeichert | Dokumente können manuell wiederhergestellt werden |  Automatisch (z.B. Auto-Save: alle paar Minuten) | Bei Bedarf manuell oder automatisch |
