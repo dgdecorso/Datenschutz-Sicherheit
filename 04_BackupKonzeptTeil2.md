@@ -1,5 +1,4 @@
-# Erstellen der Markdown-Datei für das Backup-Konzept
-backup_markdown_content = """
+
 # Backup-Konzept für Notebook/PC
 
 ## Warum ist ein Backup wichtig?
