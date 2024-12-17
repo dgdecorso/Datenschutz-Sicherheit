@@ -16,10 +16,7 @@ Ein Backup ist notwendig, um Datenverlust zu vermeiden, der durch Hardwaredefekt
 2. **Cloud-Backup:**
    - **Speicherort:** Google Drive, Dropbox oder OneDrive  
    - **Methode:** Automatische Synchronisation mit Backup-Tools (z.B. **rclone** oder Cloud-eigene Apps)  
-   - **Häufigkeit:** Täglich  
-
-   > Vorteile: Zugriff auf Daten von überall und Schutz vor physischen Schäden wie Bränden.  
-   > Nachteile: Abhängigkeit von Internet und Datenschutzfragen.  
+   - **Häufigkeit:** Täglich   
 
 ---
 
