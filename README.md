@@ -23,4 +23,4 @@ Als die Lektion begann, erhielten wir die Prüfung zum Datenschutz und -sicherhe
 
 # 17. Dezember 
 
- Zu Beginn der Lektion, bekamen wir unsere Prüfung von letzter Woche zurück. Danach sagte uns der Lehrer, dass wir keinen wirklichen Input hatten und die ganze Lektion zur Verfügung hätten, die Aufgaben zu lösen. Ich arbeitete zunächst am zweiten Teil der Backup-Konzept Aufgabe [Backup-Konzept Teil 2].(https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
+ Zu Beginn der Lektion, bekamen wir unsere Prüfung von letzter Woche zurück. Danach sagte uns der Lehrer, dass wir keinen wirklichen Input hatten und die ganze Lektion zur Verfügung hätten, die Aufgaben zu lösen. Ich arbeitete zunächst am zweiten Teil der Backup-Konzept Aufgabe [Backup-Konzept Teil 2](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
