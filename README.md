@@ -31,4 +31,4 @@ Als die Lektion begann erklärte uns der Leher, einige Sachen über Sicherheit. 
 
 # 14. Januar
 
-Am Anfang der Lektion haben wir eine Eigene verschlüsselung für das Alphabet erstellt. Danach haben wir zusammen kurze erklärungen zu verschiedenen Vershclüsselungen angeschaut. Nachdem habe ich die Aufgaben bearbeitet, ich habe die neuen erledigt und die anderen korriegiert.
+Am Anfang der Lektion haben wir eine Eigene verschlüsselung für das Alphabet erstellt. Danach haben wir zusammen kurze erklärungen zu verschiedenen Vershclüsselungen angeschaut. Nachdem habe ich die Aufgaben bearbeitet, ich habe die neuen erledigt und die anderen korriegiert [FIDO](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/09_FIDOAnmeldeverfahrenOhnePasswörter.md).
