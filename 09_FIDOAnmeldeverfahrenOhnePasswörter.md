@@ -30,7 +30,8 @@ Private: Kenne nur ich. Entschlüsselt Daten oder Erstellt SIgnaturen.
 ## Wie geht das digitale unterschreiben?
 --> machen Sie eine Zeichnung davon, wie das geht.
 
-![image](https://github.com/user-attachments/assets/1106dddf-87ae-41a5-952a-0b3419d75d1c)
+![image](https://github.com/user-attachments/assets/2f5db101-47aa-4030-82fd-1ee0eba65655)
+
 
 Hash erstellen
 
