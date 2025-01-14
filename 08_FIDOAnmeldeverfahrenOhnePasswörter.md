@@ -17,17 +17,32 @@ Der PIN weiss immer nur eine Partei und der PIN funktioniert nur mit einem Gerä
 Haben: Man braucht ein Gerät
 Wissen: Man muss das Passwort wissen.
 
-<td></td>
+
 
 
 Passkey - Wie kann man Passwörter ersetzen?
 -------------------------------------------
 
-Wie funktioniert das Public-/Private-Key-Verfahren
+## Wie funktioniert das Public-/Private-Key-Verfahren
+Public: Kennt jeder, jeder hat darauf Zugriff. Verschlüsselt Daten und verifiziert Signaturen.
+Private: Kenne nur ich. Entschlüsselt Daten oder Erstellt SIgnaturen.
 
-Wie geht das digitale unterschreiben?
+## Wie geht das digitale unterschreiben?
 --> machen Sie eine Zeichnung davon, wie das geht.
 
-Was ist der Vorteil dieses FIDO-Verfahrens?
+
+## Was ist der Vorteil dieses FIDO-Verfahrens?
+-Sicherheit:
+Schützt vor Phishing, da der private Schlüssel niemals geteilt wird.
+
+Benutzerfreundlichkeit:
+Nutzer brauchen sich keine komplexen Passwörter zu merken.
+
+Biometrie:
+Authentifizierung kann über Fingerabdruck oder Gesichtserkennung erfolgen.
+
+Keine zentralen Passwortspeicher:
+Reduziert die Gefahr von Datenlecks durch kompromittierte Server.
 
 Warum ist dieses System noch nicht so verbreitet?
+
