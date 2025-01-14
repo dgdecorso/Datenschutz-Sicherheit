@@ -32,7 +32,7 @@ Private: Kenne nur ich. Entschlüsselt Daten oder Erstellt SIgnaturen.
 
 
 ## Was ist der Vorteil dieses FIDO-Verfahrens?
--Sicherheit:
+Sicherheit:
 Schützt vor Phishing, da der private Schlüssel niemals geteilt wird.
 
 Benutzerfreundlichkeit:
