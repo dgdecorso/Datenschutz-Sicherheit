@@ -1,5 +1,5 @@
 # FIDO - Anmeldeverfahren ohne Passwörter
-=======================================
+-------------------------------------------
 
 ## Warum sind Passwörter unsicher?
 Passwörter sollten nur von Zwei parteien aufbewahrt werde. Bei Hackangriffen oder sobald es eine Dritte Person mitbekommt ist es unsicher. Passwörter sollten immer unterschiedlich sein.
