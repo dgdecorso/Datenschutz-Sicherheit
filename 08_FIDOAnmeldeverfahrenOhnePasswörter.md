@@ -1,12 +1,14 @@
 FIDO - Anmeldeverfahren ohne Passwörter
 =======================================
 
-Warum sind Passwörter unsicher?
-Passwörter sollten nur von Zwei parteien aufbewahrt werde. Bei Hackangriffen oder sobald es eine Dritte Person mitbekommt ist es unsicher.
+# Warum sind Passwörter unsicher?
+Passwörter sollten nur von Zwei parteien aufbewahrt werde. Bei Hackangriffen oder sobald es eine Dritte Person mitbekommt ist es unsicher. Passwörter sollten immer unterschiedlich sein.
 
-Wie geht ein passwortloses Anmeldeverfahren?
+# Wie geht ein passwortloses Anmeldeverfahren?
+Man nutzt ein Externes gerät um sich einzuloggen z.B. mit Gesichtserkennung oder Fingerabdruck.
 
-Warum ist eine Anmeldung mit einem PIN auch gut?
+# Warum ist eine Anmeldung mit einem PIN auch gut?
+
 
 Was sind die "Faktoren" für ein Anmeldeverfahren?
 
