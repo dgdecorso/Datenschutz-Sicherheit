@@ -32,16 +32,17 @@ Private: Kenne nur ich. Entschlüsselt Daten oder Erstellt SIgnaturen.
 
 
 ## Was ist der Vorteil dieses FIDO-Verfahrens?
-Sicherheit:
+
+**Sicherheit:**
 Schützt vor Phishing, da der private Schlüssel niemals geteilt wird.
 
-Benutzerfreundlichkeit:
+**Benutzerfreundlichkeit:**
 Nutzer brauchen sich keine komplexen Passwörter zu merken.
 
-Biometrie:
+**Biometrie:**
 Authentifizierung kann über Fingerabdruck oder Gesichtserkennung erfolgen.
 
-Keine zentralen Passwortspeicher:
+**Keine zentralen Passwortspeicher:**
 Reduziert die Gefahr von Datenlecks durch kompromittierte Server.
 
 Warum ist dieses System noch nicht so verbreitet?
