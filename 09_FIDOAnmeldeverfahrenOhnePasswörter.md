@@ -20,7 +20,7 @@ Wissen: Man muss das Passwort wissen.
 
 
 
-Passkey - Wie kann man Passwörter ersetzen?
+# Passkey - Wie kann man Passwörter ersetzen?
 -------------------------------------------
 
 ## Wie funktioniert das Public-/Private-Key-Verfahren
@@ -45,5 +45,6 @@ Authentifizierung kann über Fingerabdruck oder Gesichtserkennung erfolgen.
 - **Keine zentralen Passwortspeicher:**
 Reduziert die Gefahr von Datenlecks durch kompromittierte Server.
 
-Warum ist dieses System noch nicht so verbreitet?
+## Warum ist dieses System noch nicht so verbreitet?
+Firmen haben noch keine Pläne es zu ändern, die schon Pläne haben oder es planen das System zu nutzen haben noch keinen Zeitplan.
 
