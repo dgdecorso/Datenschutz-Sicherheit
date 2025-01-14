@@ -30,6 +30,31 @@ Private: Kenne nur ich. Entschlüsselt Daten oder Erstellt SIgnaturen.
 ## Wie geht das digitale unterschreiben?
 --> machen Sie eine Zeichnung davon, wie das geht.
 
+![image](https://github.com/user-attachments/assets/1106dddf-87ae-41a5-952a-0b3419d75d1c)
+
+Hash erstellen
+
+Die Daten werden in eine Art "Fingerabdruck" umgewandelt, den man Hash nennt.
+Der Hash ist eine kurze, einmalige Zahl, die die Nachricht repräsentiert.
+Mit Private Key unterschreiben
+
+Der Absender verschlüsselt den Hash mit seinem geheimen Private Key.
+Das Ergebnis ist die digitale Unterschrift.
+Versenden
+
+Der Absender schickt die Nachricht zusammen mit der digitalen Unterschrift an den Empfänger.
+Überprüfung durch den Empfänger
+
+Der Empfänger entschlüsselt die Unterschrift mit dem Public Key des Absenders.
+Dadurch erhält er den ursprünglichen Hash.
+Vergleichen
+
+Der Empfänger erstellt selbst einen Hash der erhaltenen Nachricht.
+Stimmen die Hashes überein, ist die Unterschrift echt und die Nachricht unverändert.
+Zusammengefasst:
+Der Absender "verschließt" die Nachricht mit einem geheimen Schlüssel, und der Empfänger prüft mit dem passenden öffentlichen Schlüssel, ob alles passt.
+
+
 
 ## Was ist der Vorteil dieses FIDO-Verfahrens?
 
