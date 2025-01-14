@@ -17,6 +17,8 @@ Der PIN weiss immer nur eine Partei und der PIN funktioniert nur mit einem Gerä
 Haben: Man braucht ein Gerät
 Wissen: Man muss das Passwort wissen.
 
+<td></td>
+
 
 Passkey - Wie kann man Passwörter ersetzen?
 -------------------------------------------
