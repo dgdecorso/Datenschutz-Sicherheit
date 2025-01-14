@@ -28,3 +28,7 @@ Zu Beginn der Lektion, bekamen wir unsere Prüfung von letzter Woche zurück. Da
  # 07. Januar
 
 Als die Lektion begann erklärte uns der Leher, einige Sachen über Sicherheit. Als er dann fertig war schloss ich die Aufgabe zum eigenen Backup ab und gab sie ab. zudem löste ich die restlichen Aufgaben des Tages. [Multifaktor Auth.](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md) und [Begriffe erklärt](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
+
+# 14. Januar
+
+Am Anfang der Lektion haben wir eine Eigene verschlüsselung für das Alphabet erstellt. Danach haben wir zusammen kurze erklärungen zu verschiedenen Vershclüsselungen angeschaut. Nachdem habe ich die Aufgaben bearbeitet, ich habe die neuen erledigt und die anderen korriegiert.
