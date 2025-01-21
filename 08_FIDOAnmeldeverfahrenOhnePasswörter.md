@@ -15,6 +15,7 @@ Der PIN weiss immer nur eine Partei und der PIN funktioniert nur mit einem Gerä
 
 ## Was sind die "Faktoren" für ein Anmeldeverfahren?
 Haben: Man braucht ein Gerät
+
 Wissen: Man muss das Passwort wissen.
 
 
