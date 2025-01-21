@@ -35,4 +35,4 @@ Am Anfang der Lektion haben wir eine Eigene verschlüsselung für das Alphabet e
 
 # 21.  Januar
 
-Zu Beginn der Stunde konnten wir uns noch kurz auf die Prüfung vorbereiten, danach begannen wir und hatten 45 Min für die Prüfung. Nach der Prüfung lösten wir die heutigen Aufgaben.[Datenlöschung](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
+Zu Beginn der Stunde konnten wir uns noch kurz auf die Prüfung vorbereiten, danach begannen wir und hatten 45 Min für die Prüfung. Nach der Prüfung lösten wir die heutigen Aufgaben. [Datenlöschung](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md) und [Impressum]()
