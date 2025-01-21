@@ -32,3 +32,7 @@ Als die Lektion begann erklärte uns der Leher, einige Sachen über Sicherheit. 
 # 14. Januar
 
 Am Anfang der Lektion haben wir eine Eigene verschlüsselung für das Alphabet erstellt. Danach haben wir zusammen kurze erklärungen zu verschiedenen Vershclüsselungen angeschaut. Nachdem habe ich die Aufgaben bearbeitet, ich habe die neuen erledigt und die anderen korriegiert [FIDO](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/08_FIDOAnmeldeverfahrenOhnePasswörter.md).
+
+# 21.  Januar
+
+Zu Beginn der Stunde konnten wir uns noch kurz auf die Prüfung vorbereiten, danach begannen wir und hatten 45 Min für die Prüfung. Nach der Prüfung lösten wir die heutigen Aufgaben.[Datenlöschung](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
