@@ -49,4 +49,4 @@ Die Buchstaben "AGB" stehen für Allgemeine Geschäftsbedingungen. Sie regeln di
 ## Aufgabe 8: Drei Links zu AGB
 1. [AGB von Digitec Galaxus](https://www.galaxus.ch/de/agb)
 2. [AGB von Zalando](https://www.zalando.ch/agb/)
-3. [AGB Vorlage von Anwalt.de](https://www.anwalt.de/muster/agbs)
+3. [AGB Vorlage von RICARDO](https://help.ricardo.ch/hc/de/articles/115002934305-AGB-und-Reglemente)
