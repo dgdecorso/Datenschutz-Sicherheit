@@ -36,3 +36,8 @@ Am Anfang der Lektion haben wir eine Eigene verschlüsselung für das Alphabet e
 # 21.  Januar
 
 Zu Beginn der Stunde konnten wir uns noch kurz auf die Prüfung vorbereiten, danach begannen wir und hatten 45 Min für die Prüfung. Nach der Prüfung lösten wir die heutigen Aufgaben. [Datenlöschung](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md) und [Impressum, AGB und Disclaimer](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/10_ImpressumDisclaimerAGB.md)
+
+# 28. Januar
+
+Heute war der letzte Tag von diesem Modul. Wir erhielten unsere Prüfung zurück und begannen mit der letzten Aufgabe [Lizenzmodelle](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
+. Als ich dann fertig war und die Aufgabe abgegeben hatte überarbeitete und verschönerte ich nochmals das Repository von diesem Modul 
