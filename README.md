@@ -8,7 +8,7 @@ beginnen, weil der Unterricht zu Ende war.
 
 # 19. November
 
-Als der Lehrer fertig mit dem Input war, begann ich mit der Zweiten Aufgabe, da ich aber ein Woche später mit der Aufgabe begann, musste ich mich nochmals informieren und die Aufgabe durchlesen. Als ich sie dann verstand löste ich sie und gab sie ab. Ich begann dann mit der neuen Aufgabe die "M231-2a GitÜbung als Ablage- und Versionsverwaltung kennenlernen" Aufgabe. [Wo Speichere ich meine Daten ab?](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/01_Wo%20speichere%20ich%20meine%20Daten%20ab.md) und [Eigenes Ablagekonzept](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/02_Eigenes%20Ablagekonzept.drawio)
+Als der Lehrer fertig mit dem Input war, begann ich mit der Zweiten Aufgabe, da ich aber ein Woche später mit der Aufgabe begann, musste ich mich nochmals informieren und die Aufgabe durchlesen. Als ich sie dann verstand löste ich sie und gab sie ab. Ich begann dann mit der neuen Aufgabe die "M231-2a GitÜbung als Ablage- und Versionsverwaltung kennenlernen" Aufgabe. [Wo Speichere ich meine Daten ab?](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/01_WoSpeichereIchMeineDatenAb.md) und [Eigenes Ablagekonzept](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/02_EigenesAblagekonzept.md)
 
 # 26. November
 
