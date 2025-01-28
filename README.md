@@ -1,5 +1,5 @@
 # Datenschutz-Sicherheit/m231
-Das Modul "Datenschutz und Sicherheit" erklärt die wichtigsten Grundlagen, wie man Daten schützt und IT-Systeme sicher macht. Es geht um Gesetze, sichere Technologien und gute Methoden im Alltag. Ziel ist, zu lernen, wie man Daten sicher verarbeitet und schützt.
+Das Modul "Datenschutz und Sicherheit" behandelt die wichtigsten Grundlagen, wie man Daten schützt und IT-Systeme sicher macht. Es geht um Gesetze, sichere Technologien und gute Methoden im Alltag. Ziel ist, zu lernen, wie man Daten sicher verarbeitet und schützt.
 
 
 # 12. November
