@@ -3,15 +3,16 @@ m231
 
 # 12. November
 
-Nachdem der Lehrer fertig erklärt hatte, mussten wir ein GitHub-Repository einrichten. Danach mussten wir eine Tabelle mit all unseren Geräten erstellen, die wir benutzen. Ich nutzte dafür Excel. Als ich mit der Aufgabe fertig war, gab ich sie ab. Zuletzt begann ich, die zweite Aufgabe durchzulesen, konnte aber noch nicht beginnen, weil der Unterricht zu Ende war. 
+Nachdem der Lehrer fertig erklärt hatte, mussten wir ein GitHub-Repository einrichten. Danach mussten wir eine Tabelle mit all unseren Geräten erstellen, die wir benutzen. Ich nutzte dafür Excel. Als ich mit der Aufgabe fertig war, gab ich sie ab. Zuletzt begann ich, die zweite Aufgabe durchzulesen, konnte aber noch nicht 
+beginnen, weil der Unterricht zu Ende war. 
+
 # 19. November
 
-Als der Lehrer fertig mit dem Input war, begann ich mit der Zweiten Aufgabe, da ich aber ein Woche später mit der Aufgabe begann, musste ich mich nochmals informieren und die Aufgabe durchlesen. Als ich sie dann verstand löste ich sie und gab sie ab. Ich begann dann mit der neuen Aufgabe die "M231-2a GitÜbung als Ablage- und Versionsverwaltung kennenlernen" Aufgabe. [Wo Speichere ich meine Daten ab?](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
-
+Als der Lehrer fertig mit dem Input war, begann ich mit der Zweiten Aufgabe, da ich aber ein Woche später mit der Aufgabe begann, musste ich mich nochmals informieren und die Aufgabe durchlesen. Als ich sie dann verstand löste ich sie und gab sie ab. Ich begann dann mit der neuen Aufgabe die "M231-2a GitÜbung als Ablage- und Versionsverwaltung kennenlernen" Aufgabe. [Wo Speichere ich meine Daten ab?](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md) und [Eigenes Ablagekonzept](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/02_Eigenes%20Ablagekonzept.drawio)
 
 # 26. November
 
-Der Lehrer machte nur eine sehr kurze Einführung und lies uns sofort arbeiten. Wir begannen zuerst mit der neuen Aufgabe, Das Datenschutzgesetz. Später erhielten wir noch zeit für die Aufgaben der vergangenen Wochen, ich musste noch eine Aufgabe lösen, bevor ich mich wieder der neuen Aufgabe widmete. Ich wurde nicht fertig weswegen ich sie nächste Woche fertig machen werde. Zudem haben wir noch einen Kurzen Film über das Internet geschaut.
+Der Lehrer machte nur eine sehr kurze Einführung und lies uns sofort arbeiten. Wir begannen zuerst mit der neuen Aufgabe, Das Datenschutzgesetz [Datenschutz](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/03_DateschutzRecht.md). Später erhielten wir noch zeit für die Aufgaben der vergangenen Wochen, ich musste noch eine Aufgabe lösen, bevor ich mich wieder der neuen Aufgabe widmete. Ich wurde nicht fertig weswegen ich sie nächste Woche fertig machen werde. Zudem haben wir noch einen Kurzen Film über das Internet geschaut.
  
 # 03. Dezember
 
@@ -27,7 +28,7 @@ Zu Beginn der Lektion, bekamen wir unsere Prüfung von letzter Woche zurück. Da
 
  # 07. Januar
 
-Als die Lektion begann erklärte uns der Leher, einige Sachen über Sicherheit. Als er dann fertig war schloss ich die Aufgabe zum eigenen Backup ab und gab sie ab. zudem löste ich die restlichen Aufgaben des Tages. [Multifaktor Auth.](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/05_MultifaktorAuthentisierung.md) und [Begriffe erklärt](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/06_BegriffeErklären.md)
+Als die Lektion begann erklärte uns der Leher, einige Sachen über Sicherheit. Als er dann fertig war schloss ich die Aufgabe zum eigenen Backup ab und gab sie ab. zudem löste ich die restlichen Aufgaben des Tages. [Multifaktor Auth.](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/05_MultifaktorAuthentisierung.md), [Begriffe erklärt](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/06_BegriffeErklären.md) und den [Passwortmanager](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/07_PasswortManager.md)
 
 # 14. Januar
 
