@@ -13,7 +13,7 @@ Als der Lehrer fertig mit dem Input war, begann ich mit der Zweiten Aufgabe, da 
 
 # 26. November
 
-Der Lehrer machte nur eine sehr kurze Einführung und lies uns sofort arbeiten. Wir begannen zuerst mit der neuen Aufgabe, Das Datenschutzgesetz [Datenschutz](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/03_DateschutzRecht.md). Später erhielten wir noch zeit für die Aufgaben der vergangenen Wochen, ich musste noch eine Aufgabe lösen, bevor ich mich wieder der neuen Aufgabe widmete. Ich wurde nicht fertig weswegen ich sie nächste Woche fertig machen werde. Zudem haben wir noch einen Kurzen Film über das Internet geschaut.
+Der Lehrer machte nur eine sehr kurze Einführung und lies uns sofort arbeiten. Wir begannen zuerst mit der neuen Aufgabe, Das [Datenschutzgesetz](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/03_DateschutzRecht.md). Später erhielten wir noch zeit für die Aufgaben der vergangenen Wochen, ich musste noch eine Aufgabe lösen [Gitübung](https://github.com/dgdecorso/GitUebung/blob/main/README.md), bevor ich mich wieder der neuen Aufgabe widmete. Ich wurde nicht fertig weswegen ich sie nächste Woche fertig machen werde. Zudem haben wir noch einen Kurzen Film über das Internet geschaut.
  
 # 03. Dezember
 
