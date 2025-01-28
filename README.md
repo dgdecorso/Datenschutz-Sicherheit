@@ -27,7 +27,7 @@ Zu Beginn der Lektion, bekamen wir unsere Prüfung von letzter Woche zurück. Da
 
  # 07. Januar
 
-Als die Lektion begann erklärte uns der Leher, einige Sachen über Sicherheit. Als er dann fertig war schloss ich die Aufgabe zum eigenen Backup ab und gab sie ab. zudem löste ich die restlichen Aufgaben des Tages. [Multifaktor Auth.](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md) und [Begriffe erklärt](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/README.md)
+Als die Lektion begann erklärte uns der Leher, einige Sachen über Sicherheit. Als er dann fertig war schloss ich die Aufgabe zum eigenen Backup ab und gab sie ab. zudem löste ich die restlichen Aufgaben des Tages. [Multifaktor Auth.](https://github.com/dgdecorso/Datenschutz-Sicherheit/edit/main/05_MultifaktorAuthentisierung.md) und [Begriffe erklärt](https://github.com/dgdecorso/Datenschutz-Sicherheit/blob/main/06_BegriffeErklären.md)
 
 # 14. Januar
 
